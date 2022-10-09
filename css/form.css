@@ -1,0 +1,34 @@
+.container-form{
+    padding: 40px 0;
+    background: rgb(34 34 34 / 84%);
+}
+
+.form{
+    background: rgb(34 34 34 / 84%);
+    justify-content: center;
+    display: block;
+    padding: 3rem;
+    border: 2px solid #fff;
+    white-space: nowrap;
+    width: 22%;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+#submit{
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: none;
+    font-weight: 700;
+    padding: 1rem 1.2rem;
+    background: #eee5e9;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+#submit:hover{
+    background-color: #e0e7e0b3; 
+    color: white;
+}
+
